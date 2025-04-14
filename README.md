@@ -1,13 +1,6 @@
-<div align=center>
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkgunwon1)](https://solved.ac/parkgunwon1)
-
-</div>
 
 <br>
-<hr>
-<br>
-  
+
 <div align=center>
 <h3> 💻 TECH STACK  </h3>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
@@ -45,4 +38,14 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black"/>
 </div>
 
+<hr>
+
+<div align=center>
+<h3>🏆 Baekjoon solved rank </h3>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkgunwon1)](https://solved.ac/parkgunwon1)
+
+</div>
+
+<br>
 <hr>
