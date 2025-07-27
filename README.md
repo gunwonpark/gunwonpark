@@ -4,8 +4,8 @@
 <div align="center">
 <h3>🏆 Awards</h3>
 <p>
-  <strong> [BUD 콘테스트] 4등</strong> [2025]
-  <strong> [넥슨 게임잼] 최우수상</strong> [2025]
+  <\a><strong> [BUD 콘테스트] 4등</strong> [2025]
+  <\a><strong> [넥슨 게임잼] 최우수상</strong> [2025]
 </p>
 </div>
 
