@@ -2,6 +2,12 @@
 <br>
 
 <div align="center">
+<h3>📬 Portfolio & Blog</h3>
+<a href="https://rimugiri.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="[노션 링크 주소]"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+</div>
+
+<div align="center">
 <h3>🏆 Awards</h3>
 <p>
   <strong> [BUD 콘테스트] 4등</strong> [2025]
@@ -10,11 +16,6 @@
 </p>
 </div>
 
-<div align="center">
-<h3>📬 Portfolio & Blog</h3>
-<a href="https://rimugiri.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-<a href="[노션 링크 주소]"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-</div>
 
 <div align=center>
 <h3> 💻 TECH STACK  </h3>
