@@ -11,8 +11,9 @@
 </div>
 
 <div align="center">
-<h3>📬 Contact & Links</h3>
+<h3>📬 Portfolio & Blog</h3>
 <a href="https://rimugiri.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="[노션 링크 주소]"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </div>
 
 <div align=center>
