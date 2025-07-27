@@ -1,6 +1,19 @@
 
 <br>
 
+<div align="center">
+<h3>🏆 Awards</h3>
+<p>
+  <strong> [BUD 콘테스트] 4등</strong> [2025]
+  <strong> [넥슨 게임잼] 최우수상</strong> [2025]
+</p>
+</div>
+
+<div align="center">
+<h3>📬 Contact & Links</h3>
+<a href="https://rimugiri.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+</div>
+
 <div align=center>
 <h3> 💻 TECH STACK  </h3>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
