@@ -4,7 +4,6 @@
 <div align="center">
 <h3>📬 Portfolio & Blog</h3>
 <a href="https://rimugiri.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-<a href="https://bow-cod-d92.notion.site/a99fb8226ef64a80b35d767ef3ba99ad?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </div>
 
 <div align="center">
